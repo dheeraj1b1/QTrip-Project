@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <!-- Report Title -->
+        <reportTitle>QTrip Regression Suite</reportTitle>
+        
+        <!-- Theme: Standard -->
+        <theme>standard</theme>
+        
+        <!-- Report Name -->
+        <reportName>Regression test for QTrip</reportName>
+    </configuration>
+</extentreports>
