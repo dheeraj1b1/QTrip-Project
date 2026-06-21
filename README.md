@@ -40,7 +40,7 @@
 | **TC03** | Adventure Booking — select adventure, apply filters, make reservation | Form interactions, dynamic dropdowns |
 | **TC04** | Booking History — verify reservation appears in history | Navigation flow, data persistence check |
 
-> **Note:** `TestCases.java` contains a commented-out exploratory test suite used during initial development.
+Note: `TestCases.java` contains a commented-out exploratory test suite used during initial development.
 
 ---
 
@@ -114,7 +114,7 @@ QTrip-Project/
 
 ### Run a Specific Test Case
 
-Modify `testng.xml` to include only the desired test class, then:
+Update `testng.xml` to include only the desired test class, then run:
 
 ```bash
 ./gradlew test
